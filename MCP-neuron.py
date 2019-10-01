@@ -2,6 +2,8 @@
 import numpy as np
 import pandas as pd
 
+## try to maintain a readme file for same 
+
 class MCPNeuron(object):
     
     def __init__(self,w=[1,1],t=1):
